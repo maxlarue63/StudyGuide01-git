@@ -1,0 +1,46 @@
+1.  a way to manage and edit repositries
+
+2.  distributed end users have the entire repository while centralized users have only the files they are working with
+
+3.allows to easily manage repositories
+
+A commit is a change to the repository
+
+A checkout switches brantches you are working in
+
+6 A portion of a project seperate from the main project, not neccesarly added to the final product 
+
+7 Until merged with master
+
+8 With the branch command
+
+9  checkout command
+
+10 merge command
+
+11  status command
+
+12 push command
+
+13 Master 
+
+14 status command
+
+15 Website used to manage repeositories 
+
+16 linux kernal developers needed version control software that fitted their needs
+
+17 create a branch, add code, merge code, repeate
+
+18 easily created branches, inovations in speed (significantly faster). 
+
+19 fast, lightweight, powerful with merging and branching, distributed
+
+
+20 log command
+
+21  Short one  liner describing what it changed, why, and time/date
+
+22 commit fixes, don't undo the past
+
+
